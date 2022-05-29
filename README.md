@@ -1,8 +1,7 @@
 # LIBRARYORGANIZER - Topic Modelling and Key Word Assignment for scientific articles
 
 ## Problem
-
-![This image shows a Mary Kondo Meme](https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg | width= 500px)
+<img src="https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg" alt="This image shows a Mary Kondo Meme" width="600">
 
 Digital libraries of scientists can be messy. Various pdfs from various fields and subfields are gathered
 and often, it is not easy to gain an overview, i.e. identify common topics across multiple articles. At
