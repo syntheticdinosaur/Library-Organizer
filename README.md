@@ -1,14 +1,14 @@
-LIBRARYORGANIZER
+# LIBRARYORGANIZER
 
-Function:
+## Function:
 Collection of MATLAB functions to perform topic modelling on a collection of scientific articles.
 Extracted topics, as well as automatically generated keywords, get written to a BibTex file for late rimport into a reference manager of your choice.
 
-Dependencies:
+## Dependencies:
 MATLAB 2022a
 TEXT ANALYTICS & MACHINE LEARNING AND STATISTICS TOOLBOXES
 
-How to:
+## How to:
 Prepare folder with articles/book chapters that you want to analysis (preferably .pdf format) and select it in the GUI.
 As a start, you can choose the 20 articles included in "Example Articles".
 Default options in GUI dialogues are hinted in blue and should work fine for first tries with the program.
