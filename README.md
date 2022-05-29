@@ -2,7 +2,7 @@
 
 ## Problem
 
-![This image shows a Mary Kondo Meme](https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg | width= 500)
+![This image shows a Mary Kondo Meme](https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg | width= 500px)
 
 Digital libraries of scientists can be messy. Various pdfs from various fields and subfields are gathered
 and often, it is not easy to gain an overview, i.e. identify common topics across multiple articles. At
