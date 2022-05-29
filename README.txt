@@ -1,9 +1,5 @@
 LIBRARYORGANIZER
 
-Author: Joshua Woller, University of Tuebingen
-contact: zxowd26@student.uni-tuebingen.de, joshua@joshuawoller.com
-03 April 2022
-
 Function:
 Collection of MATLAB functions to perform topic modelling on a collection of scientific articles.
 Extracted topics, as well as automatically generated keywords, get written to a BibTex file for late rimport into a reference manager of your choice.
