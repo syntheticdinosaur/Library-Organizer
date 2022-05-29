@@ -1,7 +1,7 @@
 # LIBRARYORGANIZER - Topic Modelling and Key Word Assignment for scientific articles
 
 ## Problem
-<img src="https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg" align="middle" alt="This image shows a Mary Kondo Meme" width="400">
+
 
 Digital libraries of scientists can be messy. Various pdfs from various fields and subfields are gathered
 and often, it is not easy to gain an overview, i.e. identify common topics across multiple articles. At
@@ -22,6 +22,8 @@ collection of texts. This is referred to as topic modelling. A topic can be unde
 words or N-grams that often occur together across documents. This then allows to also assign topics
 to the documents themselves, providing a way to assess the content similarity of documents.
 Depending of the modelling method, such topic assignments can be exclusive or non-exclusive.
+
+<img src="https://github.com/syntheticdinosaur/Library-Organizer/blob/master/docs/images/MarieKondoArticleOrga.jpg" align="middle" alt="This image shows a Mary Kondo Meme" width="500">
 
 ## Function:
 Collection of MATLAB functions to perform topic modelling on a collection of scientific articles.
